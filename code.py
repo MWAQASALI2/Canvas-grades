@@ -1,5 +1,5 @@
 import requests
-token="17361~ZuZMwtAMYFYv3QRJkePnDtNrEM6DGV6e3YaG3WMhGyTvvvaWR3tY2wvFeCBGWMUD"
+token=""
 headers={
     "Authorization":f"Bearer {token}"
 }
